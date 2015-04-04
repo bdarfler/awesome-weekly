@@ -67,6 +67,7 @@ Pull requests happily accepted.
 - [CenturyLinkLabs - Docker](http://www.centurylinklabs.com/)
 - [Leanstack Weekly Archive](http://us2.campaign-archive2.com/home/?u=5298275b7ee689be412444f45&id=2911f8fd09)
 - [Heroku Weekly](https://madmimi.com/signups/72042/join)
+- [Web Operations Weekly](http://webopsweekly.com/)
 
 ### Data Science
 - [datascienceweekly.org Archive](http://www.datascienceweekly.org/newsletters)
