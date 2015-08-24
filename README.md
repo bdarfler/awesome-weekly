@@ -77,6 +77,7 @@ Pull requests happily accepted.
 - [hadoopweekly.com Archive](http://www.hadoopweekly.com/archive.html)
 
 ### General
+- [Fullweb Weekly](http://fullweb.io/), the newsletter for Fullstack Developers
 - [Fullstack Radar](http://fullstackradar.io/)
 - [SaaSClub Weekly Archive](http://saasclub.com/newsletters/)
 - [Realtime Weekly Archive](http://realtimeweekly.co/issues)
